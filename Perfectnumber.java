@@ -26,7 +26,7 @@ public class Perfectnumber {
 	        System.out.println();
 	    }
 
-	    // Main method
+	    
 	    public static void main(String[] args) {
 	        int startRange = 1;
 	        int endRange = 1000;
