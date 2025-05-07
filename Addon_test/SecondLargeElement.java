@@ -29,7 +29,7 @@ public class SecondLargeElement {
 	        return second;
 	    }
 
-	    // Main method
+	
 	    public static void main(String[] args) {
 	        int[] arr = {10, 20, 50, 30, 40};
 	        int secondLargest = findSecondLargest(arr);
